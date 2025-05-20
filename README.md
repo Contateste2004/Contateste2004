@@ -8,10 +8,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ---
 
-<div align="right">
-<img src="https://github.com/user-attachments/assets/b2869ca1-1943-42b2-9c4d-2c93356421c9" height="190px" />
-</div>
-
 <h3 align="left">Conecte-se comigo!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:contateste@gmail.com)
