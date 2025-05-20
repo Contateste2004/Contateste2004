@@ -110,3 +110,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   
   </p>
 
+  ###
+
+  <img src="https://raw.githubusercontent.com/Contateste2004/Contateste2004/output/snake.svg" alt="Snake animation" />
+
+###
