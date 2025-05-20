@@ -19,6 +19,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### 🤖 Linguagens e Tecnologias
 
+<div align="left">
 <img 
     align="left" 
     alt="HTML"
@@ -94,7 +95,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-
+</div>
 <br/>
 <br/>
 
