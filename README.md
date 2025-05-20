@@ -9,7 +9,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ---
 <h3 align="left">Conecte-se comigo!</h3>
 
-![Image](https://github.com/user-attachments/assets/b2869ca1-1943-42b2-9c4d-2c93356421c9)
+<div align="right">
+<img src="https://github.com/user-attachments/assets/b2869ca1-1943-42b2-9c4d-2c93356421c9" height="190px" />
+</div>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:contateste@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/teste.conta/)
