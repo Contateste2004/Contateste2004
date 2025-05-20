@@ -1,4 +1,5 @@
 # 👩‍💻 Ana Clara
+---
 
 **`Desenvolvedora FullStack`** 
 
